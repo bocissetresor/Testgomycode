@@ -1,0 +1,8 @@
+nom site :Lynk_v1
+Saisissez le nom/prénom du 'Super Utilisateur' principal: Cissé Yaya Tresor
+Saisissez un nom d'utilisateur pour ce compte 'Super Utilisateur' : bocissetresor
+aisissez un mot de passe pour ce compte 'Super Utilisateur': 17-cisseazerty
+Saisissez une adresse e-mail pour ce compte 'Super Utilisateur' : bocissetresor@gmail.com
+Entrez le nom d'hôte, généralement "localhost" ou un nom fourni par votre hébergeur:localhost
+Nom d'utilisateur créé par vous même ou fourni par l'hébergeur: root
+Saisissez le mot de passe d'accès à la base de données:
